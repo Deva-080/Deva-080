@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Deva-080
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning HTML and CSS 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have just started learning coding and I am from India
+- 
